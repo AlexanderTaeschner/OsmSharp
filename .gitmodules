@@ -1,4 +1,4 @@
 [submodule "OsmSharpTestFiles"]
 	path = OsmSharpTestFiles
-	url = https://github.com/xivk/OsmSharpTestFiles.git
+	url = https://github.com/AlexanderTaeschner/OsmSharpTestFiles.git
 	branch = master
