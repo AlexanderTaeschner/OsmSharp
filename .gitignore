@@ -30,3 +30,4 @@ test-results*/
 .DotSettings
 *.vspx
 *.patch
+/.vs
